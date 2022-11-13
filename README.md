@@ -7,91 +7,91 @@
 
 这个任务通常**不涉及添/删字词，只涉及替换**，所以一般输入输出的句子是等长的。
 
-- The Past Mistake is the Future Wisdom: Error-driven Contrastive Probability Optimization for Chinese Spell Checkin
-	https://openreview.net/pdf?id=DW8WNS97jP5
+- The Past Mistake is the Future Wisdom: Error-driven Contrastive Probability Optimization for Chinese Spell Checkin<br>
+	https://openreview.net/pdf?id=DW8WNS97jP5<br>
 	2022
 
-- Sparsity Regularization for Chinese Spelling Check
-	https://openreview.net/pdf?id=lMQ2TTkQo51
+- Sparsity Regularization for Chinese Spelling Check<br>
+	https://openreview.net/pdf?id=lMQ2TTkQo51<br>
 	2022
 
-- SDCL: Self-Distillation Contrastive Learning for Chinese Spell Checking
-	https://arxiv.org/pdf/2210.17168
+- SDCL: Self-Distillation Contrastive Learning for Chinese Spell Checking<br>
+	https://arxiv.org/pdf/2210.17168<br>
 	2022
-- A Chinese Spelling Check Framework Based on Reverse Contrastive Learning
-	https://arxiv.org/pdf/2210.13823
+- A Chinese Spelling Check Framework Based on Reverse Contrastive Learning<br>
+	https://arxiv.org/pdf/2210.13823<br>
 	2022
-- Improving Chinese Spelling Check by Character Pronunciation Prediction: The Effects of Adaptivity and Granularity
-	https://arxiv.org/pdf/2210.10996
+- Improving Chinese Spelling Check by Character Pronunciation Prediction: The Effects of Adaptivity and Granularity<br>
+	https://arxiv.org/pdf/2210.10996<br>
 	EMNLP 2022
-- Learning from the Dictionary: Heterogeneous Knowledge Guided Fine-tuning for Chinese Spell Checking
-	https://arxiv.org/pdf/2210.10320
+- Learning from the Dictionary: Heterogeneous Knowledge Guided Fine-tuning for Chinese Spell Checking<br>
+	https://arxiv.org/pdf/2210.10320<br>
 	EMNLP 2022
-- uChecker: Masked Pretrained Language Models as Unsupervised Chinese Spelling Checkers
-	https://arxiv.org/pdf/2209.07068
+- uChecker: Masked Pretrained Language Models as Unsupervised Chinese Spelling Checkers<br>
+	https://arxiv.org/pdf/2209.07068<br>
 	COLING 2022
-- Contextual Similarity is More Valuable than Character Similarity: An Empirical Study for Chinese Spell Checking
-	https://arxiv.org/pdf/2207.09217
+- Contextual Similarity is More Valuable than Character Similarity: An Empirical Study for Chinese Spell Checking<br>
+	https://arxiv.org/pdf/2207.09217<br>
 	2022
-- General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining
-	https://arxiv.org/pdf/2203.10929
+- General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining<br>
+	https://arxiv.org/pdf/2203.10929<br>
 	2022
-- The Past Mistake is the Future Wisdom: Error-driven Contrastive Probability Optimization for Chinese Spell Checking
-	https://arxiv.org/pdf/2203.00991
+- The Past Mistake is the Future Wisdom: Error-driven Contrastive Probability Optimization for Chinese Spell Checking<br>
+	https://arxiv.org/pdf/2203.00991<br>
 	ACL 2022
-- Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking
-	https://arxiv.org/pdf/2105.12306
+- Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking<br>
+	https://arxiv.org/pdf/2105.12306<br>
 	ACL 2021
-- DCSpell：A Detector-Corrector Framework for Chinese Spelling Error Correction
-	https://dl.acm.org/doi/10.1145/3404835.3463050
+- DCSpell：A Detector-Corrector Framework for Chinese Spelling Error Correction<br>
+	https://dl.acm.org/doi/10.1145/3404835.3463050<br>
 	SIGIR 2021
-- Correcting Chinese Spelling Errors with Phonetic Pre-training
-	https://aclanthology.org/2021.findings-acl.198.pdf
+- Correcting Chinese Spelling Errors with Phonetic Pre-training<br>
+	https://aclanthology.org/2021.findings-acl.198.pdf<br>
 	ACL 2021
-- PLOME：Pre-trained with Misspelled Knowledge for Chinese Spelling Correctio
-	https://aclanthology.org/2021.acl-long.233/
+- PLOME：Pre-trained with Misspelled Knowledge for Chinese Spelling Correctio<br>
+	https://aclanthology.org/2021.acl-long.233/<br>
 	ACL 2021
-- PHMOSpell：Phonological and Morphological Knowledge Guided Chinese Spelling Check
-	https://aclanthology.org/2021.acl-long.464/
+- PHMOSpell：Phonological and Morphological Knowledge Guided Chinese Spelling Check<br>
+	https://aclanthology.org/2021.acl-long.464/<br>
 	ACL 2021
-- Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models
-	https://arxiv.org/abs/2105.14813
+- Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models<br>
+	https://arxiv.org/abs/2105.14813<br>
 	ACL 2021
-- Dynamic Connected Networks for Chinese Spelling Check
-	https://aclanthology.org/2021.findings-acl.216/
+- Dynamic Connected Networks for Chinese Spelling Check<br>
+	https://aclanthology.org/2021.findings-acl.216/<br>
 	ACL 2021
-- Global Attention Decoder for Chinese Spelling Error Correction
-	https://aclanthology.org/2021.findings-acl.122/
+- Global Attention Decoder for Chinese Spelling Error Correction<br>
+	https://aclanthology.org/2021.findings-acl.122/<br>
 	ACL 2021
-- SpellBERT: A Lightweight Pretrained Model for Chinese Spelling Check
-	https://aclanthology.org/2021.emnlp-main.287/
+- SpellBERT: A Lightweight Pretrained Model for Chinese Spelling Check<br>
+	https://aclanthology.org/2021.emnlp-main.287/<br>
 	EMNLP 2021
-- Domain-shift Conditioning using Adaptable Filtering via Hierarchical Embeddings for Robust Chinese Spell Check
-	https://arxiv.org/pdf/2008.12281
+- Domain-shift Conditioning using Adaptable Filtering via Hierarchical Embeddings for Robust Chinese Spell Check<br>
+	https://arxiv.org/pdf/2008.12281<br>
 	EEE/ACM TASLP
-- SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check
-	https://arxiv.org/pdf/2004.14166
+- SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check<br>
+	https://arxiv.org/pdf/2004.14166<br>
 	ACL 2020
-- Spelling Error Correction with Soft-Masked BERT
-	https://arxiv.org/pdf/2005.07421
+- Spelling Error Correction with Soft-Masked BERT<br>
+	https://arxiv.org/pdf/2005.07421<br>
 	ACL 2020
-- Chunk-based Chinese Spelling Check with Global Optimization
-	https://aclanthology.org/2020.findings-emnlp.184.pdf
+- Chunk-based Chinese Spelling Check with Global Optimization<br>
+	https://aclanthology.org/2020.findings-emnlp.184.pdf<br>
 	EMNLP 2020
-- Confusionset-guided Pointer Networks for Chinese Spelling Check
-	https://aclanthology.org/P19-1578/
+- Confusionset-guided Pointer Networks for Chinese Spelling Check<br>
+	https://aclanthology.org/P19-1578/<br>
 	ACL 2019
-- FASPell: A Fast, Adaptable, Simple, Powerful Chinese Spell Checker Based On DAE-Decoder Paradigm
-	https://aclanthology.org/D19-5522.pdf
+- FASPell: A Fast, Adaptable, Simple, Powerful Chinese Spell Checker Based On DAE-Decoder Paradigm<br>
+	https://aclanthology.org/D19-5522.pdf<br>
 	EMNLP 2019
-- Context-Sensitive Malicious Spelling Error Correction
-	https://arxiv.org/abs/1901.07688
+- Context-Sensitive Malicious Spelling Error Correction<br>
+	https://arxiv.org/abs/1901.07688<br>
 	WWW 2019
-- A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check
-	https://aclanthology.org/D18-1273/
+- A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check<br>
+	https://aclanthology.org/D18-1273/<br>
 	EMNLP 2018
-- Spelling Correction as a Foreign Language
-	https://arxiv.org/pdf/1705.07371.pdf
+- Spelling Correction as a Foreign Language<br>
+	https://arxiv.org/pdf/1705.07371.pdf<br>
 	2017
 
 #### 数据集：
@@ -105,73 +105,73 @@
 
 CGEC可以**增添/删除字词**。
 
-- Grammatical Error Correction: A Survey of the State of the Art
-	https://arxiv.org/pdf/2211.05166
+- Grammatical Error Correction: A Survey of the State of the Art<br>
+	https://arxiv.org/pdf/2211.05166<br>
 	2022
 
-- From Spelling to Grammar: A New Framework for Chinese Grammatical Error Correction
-	https://arxiv.org/pdf/2211.01625
+- From Spelling to Grammar: A New Framework for Chinese Grammatical Error Correction<br>
+	https://arxiv.org/pdf/2211.01625<br>
 	2022
 
-- Focus Is What You Need For Chinese Grammatical Error Correction
-	https://arxiv.org/pdf/2210.12692
+- Focus Is What You Need For Chinese Grammatical Error Correction<br>
+	https://arxiv.org/pdf/2210.12692<br>
 	2022
 
-- SynGEC: Syntax-Enhanced Grammatical Error Correction with a Tailored GEC-Oriented Parser
-	https://arxiv.org/pdf/2210.12484
+- SynGEC: Syntax-Enhanced Grammatical Error Correction with a Tailored GEC-Oriented Parser<br>
+	https://arxiv.org/pdf/2210.12484<br>
 
 	EMNLP 2022
 
-- FCGEC: Fine-Grained Corpus for Chinese Grammatical Error Correction
-	https://arxiv.org/pdf/2210.12364
+- FCGEC: Fine-Grained Corpus for Chinese Grammatical Error Correction<br>
+	https://arxiv.org/pdf/2210.12364<br>
 	EMNLP 2022
 
-- Linguistic Rules-Based Corpus Generation for Native Chinese Grammatical Error Correction
-	https://arxiv.org/pdf/2210.10442
+- Linguistic Rules-Based Corpus Generation for Native Chinese Grammatical Error Correction<br>
+	https://arxiv.org/pdf/2210.10442<br>
 	EMNLP 2022
 
-- Chinese grammatical error correction based on knowledge distillation
-	https://arxiv.org/pdf/2208.00351
+- Chinese grammatical error correction based on knowledge distillation<br>
+	https://arxiv.org/pdf/2208.00351<br>
 	2022
 
-- Mining Error Templates for Grammatical Error Correction
-	https://arxiv.org/pdf/2206.11569
+- Mining Error Templates for Grammatical Error Correction<br>
+	https://arxiv.org/pdf/2206.11569<br>
 	2022
 
-- Sequence-to-Action: Grammatical Error Correction with Action Guided Sequence Generation
-	https://arxiv.org/pdf/2205.10884
+- Sequence-to-Action: Grammatical Error Correction with Action Guided Sequence Generation<br>
+	https://arxiv.org/pdf/2205.10884<br>
 	AAAI 2022
 
-- A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction
-	https://arxiv.org/pdf/2205.00217
+- A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction<br>
+	https://arxiv.org/pdf/2205.00217<br>
 	2022
 
-- Pretraining Chinese BERT for Detecting Word Insertion and Deletion Errors
-	https://arxiv.org/pdf/2204.12052
+- Pretraining Chinese BERT for Detecting Word Insertion and Deletion Errors<br>
+	https://arxiv.org/pdf/2204.12052<br>
 	2022
 
-- MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction
-	https://arxiv.org/pdf/2204.10994
+- MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction<br>
+	https://arxiv.org/pdf/2204.10994<br>
 	NAACL 2022
 
-- "Is Whole Word Masking Always Better for Chinese BERT?": Probing on Chinese Grammatical Error Correction
-	https://arxiv.org/pdf/2203.00286
+- "Is Whole Word Masking Always Better for Chinese BERT?": Probing on Chinese Grammatical Error Correction<br>
+	https://arxiv.org/pdf/2203.00286<br>
 	ACL 2022
 
-- Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding
-	https://arxiv.org/pdf/2106.04970
+- Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding<br>
+	https://arxiv.org/pdf/2106.04970<br>
 	ACL 2021
 
-- Tail-to-Tail Non-Autoregressive Sequence Prediction for Chinese Grammatical Error Correction
-	https://arxiv.org/pdf/2106.01609
+- Tail-to-Tail Non-Autoregressive Sequence Prediction for Chinese Grammatical Error Correction<br>
+	https://arxiv.org/pdf/2106.01609<br>
 	ACL 2021
 
-- Chinese Grammatical Correction Using BERT-based Pre-trained Model
-	https://arxiv.org/pdf/2011.02093
+- Chinese Grammatical Correction Using BERT-based Pre-trained Model<br>
+	https://arxiv.org/pdf/2011.02093<br>
 	AACL-IJCNLP 2020
 
-- Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction
-	https://arxiv.org/pdf/2010.03260
+- Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction<br>
+	https://arxiv.org/pdf/2010.03260<br>
 	EMNLP 2020
 
 #### 数据集：
