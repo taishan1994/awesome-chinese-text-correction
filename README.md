@@ -14,7 +14,6 @@
 - Sparsity Regularization for Chinese Spelling Check<br>
 	https://openreview.net/pdf?id=lMQ2TTkQo51<br>
 	2022
-
 - SDCL: Self-Distillation Contrastive Learning for Chinese Spell Checking<br>
 	https://arxiv.org/pdf/2210.17168<br>
 	2022
@@ -57,6 +56,9 @@
 - Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models<br>
 	https://arxiv.org/abs/2105.14813<br>
 	ACL 2021
+- Think Twice: A Post-Processing Approach for the Chinese Spelling Error Correction<br>
+	https://pdfs.semanticscholar.org/1464/b75885f3090335d52d7852375008b6d3b721.pdf?_ga=2.5037562.853549088.1668343765-1085817804.1668343765<br>
+	Applied Sciences 2021
 - Dynamic Connected Networks for Chinese Spelling Check<br>
 	https://aclanthology.org/2021.findings-acl.216/<br>
 	ACL 2021
