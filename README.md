@@ -185,8 +185,8 @@ CGEC可以**增添/删除字词**。
 
 ### Chinese Semantic Error（CSE）中文语义错误
 
-- Pre-Training with Syntactic Structure Prediction for Chinese Semantic Error Recognition
-	https://openreview.net/pdf?id=Qm_Z1UNDPN_
+- Pre-Training with Syntactic Structure Prediction for Chinese Semantic Error Recognition<br>
+	https://openreview.net/pdf?id=Qm_Z1UNDPN<br>
 	2022
 
 ****
@@ -201,9 +201,9 @@ CGEC可以**增添/删除字词**。
 
 ### 补充：
 
-- GECToR -- Grammatical Error Correction: Tag, Not Rewrite
-	https://arxiv.org/pdf/2005.12592v2.pdf
-	ACL 2020
+- GECToR -- Grammatical Error Correction: Tag, Not Rewrite<br>
+	https://arxiv.org/pdf/2005.12592v2.pdf<br>
+	ACL 2020<br>
 	虽然这篇论文是针对于英文的，但是在很多中文的比赛中都有用到它。
 - 当然还有seq2seq的文本纠错。
 
