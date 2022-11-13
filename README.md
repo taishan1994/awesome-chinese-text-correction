@@ -101,7 +101,7 @@
 - SIGHAN Bake-off 2015: http://ir.itc.ntnu.edu.tw/lre/sighan8csc.html
 - [Wang271K](https://github.com/sunnyqiny/Confusionset-guided-Pointer-Networks-for-Chinese-Spelling-Check/tree/master/data)
 
-#### Chinese Grammatical Error Correction（CGEC）中文语法纠错
+### Chinese Grammatical Error Correction（CGEC）中文语法纠错
 
 CGEC可以**增添/删除字词**。
 
