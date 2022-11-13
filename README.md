@@ -101,6 +101,8 @@
 - SIGHAN Bake-off 2015: http://ir.itc.ntnu.edu.tw/lre/sighan8csc.html
 - [Wang271K](https://github.com/sunnyqiny/Confusionset-guided-Pointer-Networks-for-Chinese-Spelling-Check/tree/master/data)
 
+****
+
 ### Chinese Grammatical Error Correction（CGEC）中文语法纠错
 
 CGEC可以**增添/删除字词**。
@@ -179,11 +181,15 @@ CGEC可以**增添/删除字词**。
 - [NLPCC18-Task2](https://github.com/zhaoyyoo/NLPCC2018_GEC)
 - [北语的CGED](https://github.com/blcuicall/cged_datasets)
 
+****
+
 ### Chinese Semantic Error（CSE）中文语义错误
 
 - Pre-Training with Syntactic Structure Prediction for Chinese Semantic Error Recognition
 	https://openreview.net/pdf?id=Qm_Z1UNDPN_
 	2022
+
+****
 
 ### 比赛
 
