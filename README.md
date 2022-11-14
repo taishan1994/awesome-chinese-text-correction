@@ -208,6 +208,8 @@ CGEC可以**增添/删除字词**。
 	ACL 2020<br>
 	虽然这篇论文是针对于英文的，但是在很多中文的比赛中都有用到它。
 - 当然还有seq2seq的文本纠错。
+- 还有一些仓库的也很全：
+	- https://github.com/destwang/CTCResources
 
 ### 工具
 
