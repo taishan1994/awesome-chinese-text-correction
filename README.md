@@ -190,7 +190,9 @@ CGEC可以**增添/删除字词**。
 - Pre-Training with Syntactic Structure Prediction for Chinese Semantic Error Recognition<br>
 	https://openreview.net/pdf?id=Qm_Z1UNDPN<br>
 	2022
-
+- BART based semantic correction for Mandarin(普通话) automatic speech recognition system<br>
+https://arxiv.org/pdf/2104.05507.pdf<br>
+2021
 ****
 
 ### 比赛
