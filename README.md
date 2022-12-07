@@ -6,9 +6,9 @@
 ### Chinese Spell Check（CSC）中文拼写检查
 
 这个任务通常**不涉及添/删字词，只涉及替换**，所以一般输入输出的句子是等长的。
-- SDCL: Self-Distillation Contrastive Learning for Chinese Spell Checking
-	https://arxiv.org/pdf/2210.17168.pdf
-	2022
+- SDCL: Self-Distillation Contrastive Learning for Chinese Spell Checking<br>
+	https://arxiv.org/pdf/2210.17168.pdf<br>
+	2022<br>
 
 - The Past Mistake is the Future Wisdom: Error-driven Contrastive Probability Optimization for Chinese Spell Checkin<br>
 	https://openreview.net/pdf?id=DW8WNS97jP5<br>
