@@ -6,6 +6,10 @@
 ### Chinese Spell Check（CSC）中文拼写检查
 
 这个任务通常**不涉及添/删字词，只涉及替换**，所以一般输入输出的句子是等长的。
+- MDCSpell: A Multi-task Detector-Corrector Framework for Chinese Spelling Correction<br>
+	https://aclanthology.org/2022.findings-acl.98.pdf<br>
+	ACL2022
+	
 - SDCL: Self-Distillation Contrastive Learning for Chinese Spell Checking<br>
 	https://arxiv.org/pdf/2210.17168.pdf<br>
 	2022<br>
@@ -111,7 +115,6 @@
 ### Chinese Grammatical Error Correction（CGEC）中文语法纠错
 
 CGEC可以**增添/删除字词**。
-
 - Grammatical Error Correction: A Survey of the State of the Art<br>
 	https://arxiv.org/pdf/2211.05166<br>
 	2022
