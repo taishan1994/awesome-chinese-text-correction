@@ -211,6 +211,7 @@ https://arxiv.org/pdf/2204.07464.pdf<br>
 - [CCL2022 中文语法纠错评测](https://github.com/blcuicall/CCL2022-CGEC)
 - [文本智能校对大赛 - 飞桨AI Studio (baidu.com)](https://aistudio.baidu.com/aistudio/competition/detail/404/0/introduction)
 - CGED历年的比赛
+- [CCL 2022 汉语学习者文本纠错评测](http://cuge.baai.ac.cn/#/ccl_yaclc) [解决方案](https://zhuanlan.zhihu.com/p/592101127)
 
 ### 补充：
 
