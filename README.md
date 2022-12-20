@@ -21,9 +21,6 @@
 - Sparsity Regularization for Chinese Spelling Check<br>
 	https://openreview.net/pdf?id=lMQ2TTkQo51<br>
 	2022
-- SDCL: Self-Distillation Contrastive Learning for Chinese Spell Checking<br>
-	https://arxiv.org/pdf/2210.17168<br>
-	2022
 - A Chinese Spelling Check Framework Based on Reverse Contrastive Learning<br>
 	https://arxiv.org/pdf/2210.13823<br>
 	2022
