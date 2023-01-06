@@ -2,7 +2,9 @@
 中文文本纠错相关的论文、比赛和工具。
 
 ****
-
+另一个文本纠错论文仓库：<br>
+https://github.com/nghuyong/text-correction-papers
+****
 ### Chinese Spell Check（CSC）中文拼写检查
 
 这个任务通常**不涉及添/删字词，只涉及替换**，所以一般输入输出的句子是等长的。
