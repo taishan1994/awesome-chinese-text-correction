@@ -9,8 +9,9 @@ https://github.com/nghuyong/text-correction-papers
 
 这个任务通常**不涉及添/删字词，只涉及替换**，所以一般输入输出的句子是等长的。
 - An Error-Guided Correction Model for Chinese Spelling Error Correction<br>
-https://arxiv.org/pdf/2301.06323.pdf<br>
-2023<br>
+	https://arxiv.org/pdf/2301.06323.pdf<br>
+	https://github.com/ruisun1/Mask-Predict-main<br>
+	2023<br>
 - MDCSpell: A Multi-task Detector-Corrector Framework for Chinese Spelling Correction<br>
 	https://aclanthology.org/2022.findings-acl.98.pdf<br>
 	ACL2022
