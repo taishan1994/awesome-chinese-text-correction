@@ -208,7 +208,9 @@ https://arxiv.org/pdf/2204.12052.pdf<br>
 ****
 
 ### Chinese Semantic Error（CSE）中文语义错误
-
+- CSED: A Chinese Semantic Error Diagnosis Corpus<br>
+2023<br>
+https://arxiv.org/pdf/2305.05183v1.pdf<br>
 - Pre-Training with Syntactic Structure Prediction for Chinese Semantic Error Recognition<br>
 	https://openreview.net/pdf?id=Qm_Z1UNDPN<br>
 	2022
