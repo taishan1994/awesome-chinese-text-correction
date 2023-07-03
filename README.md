@@ -118,6 +118,9 @@ https://github.com/nghuyong/text-correction-papers
 ### Chinese Grammatical Error Correction（CGEC）中文语法纠错
 
 CGEC可以**增添/删除字词**。
+- Progressive Multi-task Learning Framework for Chinese Text Error Correction<br>
+2023<br>
+https://arxiv.org/pdf/2306.17447v1.pdf<br>
 - Grammatical Error Correction: A Survey of the State of the Art<br>
 2023<br>
 https://arxiv.org/pdf/2211.05166v3.pdf<br>
