@@ -5,6 +5,12 @@
 另一个文本纠错论文仓库：<br>
 https://github.com/nghuyong/text-correction-papers
 ****
+### 大模型文本纠错
+- GEE! Grammar Error Explanation with Large Language Models
+- GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning
+- Evaluating the Capability of Large-scale Language Models on Chinese Grammatical Error Correction Task
+- On the (In)Effectiveness of Large Language Models for Chinese Text Correction
+
 ### Chinese Spell Check（CSC）中文拼写检查
 
 这个任务通常**不涉及添/删字词，只涉及替换**，所以一般输入输出的句子是等长的。
