@@ -6,6 +6,7 @@
 https://github.com/nghuyong/text-correction-papers
 ****
 ### 大模型文本纠错
+- Rethinking the Roles of Large Language Models in Chinese Grammatical Error Correction
 - GEE! Grammar Error Explanation with Large Language Models
 - GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning
 - Evaluating the Capability of Large-scale Language Models on Chinese Grammatical Error Correction Task
@@ -124,6 +125,24 @@ https://github.com/nghuyong/text-correction-papers
 ### Chinese Grammatical Error Correction（CGEC）中文语法纠错
 
 CGEC可以**增添/删除字词**。
+- Alirector: Alignment-Enhanced Chinese Grammatical Error Corrector
+https://arxiv.org/pdf/2402.04601.pdf<br>
+2024
+- FlaCGEC: A Chinese Grammatical Error Correction Dataset with Fine-grained Linguistic Annotation<br>
+https://arxiv.org/pdf/2311.04906.pdf<br>
+2024
+- TLM: Token-Level Masking for Transformers
+https://arxiv.org/pdf/2310.18738.pdf<br>
+EMNLP 2023<br>
+https://github.com/Young1993/tlm
+- Improving Seq2Seq Grammatical Error Correction via Decoding Interventions
+https://arxiv.org/pdf/2310.14534.pdf<br>
+EMNLP2023<br>
+https://github.com/Jacob-Zhou/gecdi
+- MixEdit: Revisiting Data Augmentation and Beyond for Grammatical Error Correction
+https://arxiv.org/pdf/2310.11671.pdf<br>
+emnlp 2023<br>
+https://github.com/THUKElab/MixEdit
 - GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning
 2023<br>
 https://arxiv.org/pdf/2307.13923v1.pdf<br>
