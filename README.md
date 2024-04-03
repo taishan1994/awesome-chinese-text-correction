@@ -125,6 +125,10 @@ https://github.com/nghuyong/text-correction-papers
 ### Chinese Grammatical Error Correction（CGEC）中文语法纠错
 
 CGEC可以**增添/删除字词**。
+- LM-Combiner: A Contextual Rewriting Model for Chinese Grammatical Error Correction<br>
+COLING 2024<br>
+https://arxiv.org/pdf/2403.17413.pdf<br>
+https://github.com/wyxstriker/LM-Combiner<br>
 - Alirector: Alignment-Enhanced Chinese Grammatical Error Corrector<br>
 https://arxiv.org/pdf/2402.04601.pdf<br>
 2024<br>
