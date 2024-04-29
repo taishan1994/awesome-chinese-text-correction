@@ -11,10 +11,18 @@ https://github.com/nghuyong/text-correction-papers
 - GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning
 - Evaluating the Capability of Large-scale Language Models on Chinese Grammatical Error Correction Task
 - On the (In)Effectiveness of Large Language Models for Chinese Text Correction
+- Rich Semantic Knowledge Enhanced Large Language Models for Few-shot Chinese Spell Checking
+- Eval-GCSC: A New Metric for Evaluating ChatGPT’s Performance in Chinese Spelling Correction
 
 ### Chinese Spell Check（CSC）中文拼写检查
 
 这个任务通常**不涉及添/删字词，只涉及替换**，所以一般输入输出的句子是等长的。
+- AN EMPIRICAL INVESTIGATION OF DOMAIN ADAPTATION ABILITY FOR CHINESE SPELLING CHECK MODELS<br>
+  https://arxiv.org/pdf/2401.14630<br>
+  2024<br>
+- Mitigating Catastrophic Forgetting in Multi-domain Chinese Spelling Correction by Multi-stage Knowledge Transfer Framework<br>
+  https://arxiv.org/pdf/2402.11422<br>
+  2024<br>
 - An Error-Guided Correction Model for Chinese Spelling Error Correction<br>
 	https://arxiv.org/pdf/2301.06323.pdf<br>
 	https://github.com/ruisun1/Mask-Predict-main<br>
