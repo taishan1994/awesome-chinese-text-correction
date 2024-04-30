@@ -20,7 +20,6 @@ https://github.com/nghuyong/text-correction-papers
 - Towards Better Chinese Spelling Check for Search Engines: A New Dataset and Strong Baseline<br>
   WSDM 2024<br>
   https://github.com/AlipaySEQ/AlipaySEQ<br>
-  2024<br>
 - AN EMPIRICAL INVESTIGATION OF DOMAIN ADAPTATION ABILITY FOR CHINESE SPELLING CHECK MODELS<br>
   https://arxiv.org/pdf/2401.14630<br>
   2024<br>
