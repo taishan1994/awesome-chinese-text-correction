@@ -17,6 +17,10 @@ https://github.com/nghuyong/text-correction-papers
 ### Chinese Spell Check（CSC）中文拼写检查
 
 这个任务通常**不涉及添/删字词，只涉及替换**，所以一般输入输出的句子是等长的。
+- Towards Better Chinese Spelling Check for Search Engines: A New Dataset and Strong Baseline<br>
+  WSDM 2024<br>
+  https://github.com/AlipaySEQ/AlipaySEQ<br>
+  2024<br>
 - AN EMPIRICAL INVESTIGATION OF DOMAIN ADAPTATION ABILITY FOR CHINESE SPELLING CHECK MODELS<br>
   https://arxiv.org/pdf/2401.14630<br>
   2024<br>
