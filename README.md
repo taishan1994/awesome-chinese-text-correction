@@ -26,6 +26,9 @@ https://github.com/nghuyong/text-correction-papers
 - Mitigating Catastrophic Forgetting in Multi-domain Chinese Spelling Correction by Multi-stage Knowledge Transfer Framework<br>
   https://arxiv.org/pdf/2402.11422<br>
   2024<br>
+- Rethinking Masked Language Modeling for Chinese Spelling Correction<br>
+  ACL2023<br>
+  https://github.com/gingasan/lemon<br>
 - An Error-Guided Correction Model for Chinese Spelling Error Correction<br>
 	https://arxiv.org/pdf/2301.06323.pdf<br>
 	https://github.com/ruisun1/Mask-Predict-main<br>
