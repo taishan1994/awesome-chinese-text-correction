@@ -13,6 +13,7 @@ https://github.com/nghuyong/text-correction-papers
 - On the (In)Effectiveness of Large Language Models for Chinese Text Correction
 - Rich Semantic Knowledge Enhanced Large Language Models for Few-shot Chinese Spell Checking
 - Eval-GCSC: A New Metric for Evaluating ChatGPT’s Performance in Chinese Spelling Correction
+- C-LLM: Learn to Check Chinese Spelling Errors Character by Character
 
 ### Chinese Spell Check（CSC）中文拼写检查
 
