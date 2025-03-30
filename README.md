@@ -18,6 +18,9 @@ https://github.com/nghuyong/text-correction-papers
 ### Chinese Spell Check（CSC）中文拼写检查
 
 这个任务通常**不涉及添/删字词，只涉及替换**，所以一般输入输出的句子是等长的。
+- Chinese Spelling Correction: A Comprehensive Survey of Progress, Challenges, and Opportunities<br>
+https://arxiv.org/pdf/2502.11508<br>
+2025<br>
 - Towards Better Chinese Spelling Check for Search Engines: A New Dataset and Strong Baseline<br>
   WSDM 2024<br>
   https://github.com/AlipaySEQ/AlipaySEQ<br>
@@ -140,6 +143,9 @@ https://github.com/nghuyong/text-correction-papers
 ### Chinese Grammatical Error Correction（CGEC）中文语法纠错
 
 CGEC可以**增添/删除字词**。
+- Loss-Aware Curriculum Learning for Chinese Grammatical Error Correction<br>
+  https://arxiv.org/pdf/2501.00334<br>
+  ICASSP 2025
 - Detection-Correction Structure via General Language Model for Grammatical Error Correction<br>
   ACL2024<br>
   https://arxiv.org/pdf/2405.17804<br>
