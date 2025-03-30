@@ -302,7 +302,10 @@ https://arxiv.org/pdf/2204.07464.pdf<br>
 	虽然这篇论文是针对于英文的，但是在很多中文的比赛中都有用到它。
 - 当然还有seq2seq的文本纠错。
 - 还有一些仓库的也很全：
-	- https://github.com/destwang/CTCResources
+	- https://github.com/destwang/CTCResources<br>
+
+- 2024开源最好的纠错项目<br>
+https://github.com/TW-NLP/ChineseErrorCorrector<br>
 
 ### 工具
 
