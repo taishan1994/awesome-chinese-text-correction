@@ -148,7 +148,7 @@ CGEC可以**增添/删除字词**。
   ICASSP 2025
 - Learning from Mistakes: Self-correct Adversarial Training for Chinese Unnatural Text Correction<br>
   https://arxiv.org/pdf/2412.17279<br>
-  AAAI 2024<br>
+  AAAI 2025<br>
 - Detection-Correction Structure via General Language Model for Grammatical Error Correction<br>
   ACL2024<br>
   https://arxiv.org/pdf/2405.17804<br>
