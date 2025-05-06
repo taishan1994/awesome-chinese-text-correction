@@ -14,10 +14,17 @@ https://github.com/nghuyong/text-correction-papers
 - Rich Semantic Knowledge Enhanced Large Language Models for Few-shot Chinese Spell Checking
 - Eval-GCSC: A New Metric for Evaluating ChatGPT’s Performance in Chinese Spelling Correction
 - C-LLM: Learn to Check Chinese Spelling Errors Character by Character
+- ATraining-free LLM-based Approach to General Chinese Character Error Correction
 
 ### Chinese Spell Check（CSC）中文拼写检查
 
 这个任务通常**不涉及添/删字词，只涉及替换**，所以一般输入输出的句子是等长的。
+- Chinese Spelling Correction: A Comprehensive Survey of Progress, Challenges, and Opportunities<br>
+https://arxiv.org/pdf/2502.11508<br>
+  2025<br>
+-  AxBERT: An Interpretable Chinese Spelling Correction Method Driven by Associative Knowledge Network<br>
+https://arxiv.org/pdf/2503.02255<br>
+2025<br>
 - Chinese Spelling Correction: A Comprehensive Survey of Progress, Challenges, and Opportunities<br>
 https://arxiv.org/pdf/2502.11508<br>
 2025<br>
@@ -143,6 +150,10 @@ https://arxiv.org/pdf/2502.11508<br>
 ### Chinese Grammatical Error Correction（CGEC）中文语法纠错
 
 CGEC可以**增添/删除字词**。
+- EXCGEC:ABenchmarkfor Edit-Wise Explainable Chinese Grammatical Error Correction<br>
+https://arxiv.org/pdf/2407.00924<br>
+https://github.com/THUKElab/EXCGEC<br>
+2025<br>
 - Loss-Aware Curriculum Learning for Chinese Grammatical Error Correction<br>
   https://arxiv.org/pdf/2501.00334<br>
   ICASSP 2025
