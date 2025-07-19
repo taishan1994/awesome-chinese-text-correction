@@ -15,10 +15,23 @@ https://github.com/nghuyong/text-correction-papers
 - Eval-GCSC: A New Metric for Evaluating ChatGPT’s Performance in Chinese Spelling Correction
 - C-LLM: Learn to Check Chinese Spelling Errors Character by Character
 - ATraining-free LLM-based Approach to General Chinese Character Error Correction
+- Mixture of Small and Large Models for Chinese Spelling Check
+- MTCSC:Retrieval-Augmented Iterative Refinement for Chinese Spelling Correction
+- A Training-free LLM-based Approach to General Chinese Character Error Correction, ACL2025
 
 ### Chinese Spell Check（CSC）中文拼写检查
 
 这个任务通常**不涉及添/删字词，只涉及替换**，所以一般输入输出的句子是等长的。
+- Chinese Spelling Correction: A Comprehensive Survey of Progress, Challenges, and Opportunities<br>
+  25年的一篇综述<br>
+  https://arxiv.org/pdf/2502.11508<br>
+- DISC: Plug-and-Play Decoding Intervention with Similarity of Characters for Chinese Spelling Check<br>
+2025<br>
+  https://arxiv.org/pdf/2412.12863<br>
+- Unveiling the Impact of Multimodal Features on Chinese Spelling Correction: From Analysis to Design<br>
+https://arxiv.org/pdf/2504.07661<br>
+2025<br>
+https://github.com/iioSnail/NamBert<br>
 - Chinese Spelling Correction: A Comprehensive Survey of Progress, Challenges, and Opportunities<br>
 https://arxiv.org/pdf/2502.11508<br>
   2025<br>
@@ -34,6 +47,9 @@ https://arxiv.org/pdf/2502.11508<br>
 - AN EMPIRICAL INVESTIGATION OF DOMAIN ADAPTATION ABILITY FOR CHINESE SPELLING CHECK MODELS<br>
   https://arxiv.org/pdf/2401.14630<br>
   2024<br>
+- A Coin Has TwoSides: A Novel Detector-Corrector Framework for Chinese Spelling Correction<br>
+ 2024<br>
+  https://arxiv.org/pdf/2409.04150<br>
 - Mitigating Catastrophic Forgetting in Multi-domain Chinese Spelling Correction by Multi-stage Knowledge Transfer Framework<br>
   https://arxiv.org/pdf/2402.11422<br>
   2024<br>
